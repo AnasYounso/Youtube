@@ -1,0 +1,30 @@
+.search-bar{
+margin :20px;
+text-align: center;
+}
+
+.search-bar input{
+    width: 55%;
+}
+
+.video-detail .details{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    border:1px solid #ddd;
+    border-radius: 4px;
+}
+
+#ul {
+   text-align: center;
+   float: right;
+    
+}
+
+#ul :hover{
+    background-color: #eee;
+    cursor: pointer;
+}
+
+ 
